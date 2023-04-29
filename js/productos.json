@@ -1,0 +1,122 @@
+[
+    {
+        "id": "labial-01",
+        "titulo": "labial 01",
+        "imagen": "./img/labiales/01.jpg",
+        "categoria": {
+            "nombre": "labiales",
+            "id": "labiales"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "labial-02",
+        "titulo": "labial 02",
+        "imagen": "./img/labiales/02.jpg",
+        "categoria": {
+            "nombre": "labiales",
+            "id": "labiales"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "labial-03",
+        "titulo": "labial 03",
+        "imagen": "./img/labiales/03.jpg",
+        "categoria": {
+            "nombre": "labiales",
+            "id": "labiales"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "sombras-01",
+        "titulo": "sombras 01",
+        "imagen": "./img/sombras/01.jpeg",
+        "categoria": {
+            "nombre": "sombras",
+            "id": "sombras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sombras-02",
+        "titulo": "sombras 02",
+        "imagen": "./img/sombras/02.jpg",
+        "categoria": {
+            "nombre": "sombras",
+            "id": "sombras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sombras-03",
+        "titulo": "sombras 03",
+        "imagen": "./img/sombras/03.jpeg",
+        "categoria": {
+            "nombre": "sombras",
+            "id": "sombras"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "sombras-04",
+        "titulo": "sombras 04",
+        "imagen": "./img/sombras/04.jpeg",
+        "categoria": {
+            "nombre": "sombras",
+            "id": "sombras"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "sombras-05",
+        "titulo": "sombras 05",
+        "imagen": "./img/sombras/05.jpeg",
+        "categoria": {
+            "nombre": "sombras",
+            "id": "sombras"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "delineador-01",
+        "titulo": "delineador 01",
+        "imagen": "./img/delineador/01.jpg",
+        "categoria": {
+            "nombre": "delineador",
+            "id": "delineador"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "delineador-02",
+        "titulo": "delineador 02",
+        "imagen": "./img/delineador/02.jpg",
+        "categoria": {
+            "nombre": "delineador",
+            "id": "delineador"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "delineador-03",
+        "titulo": "delineador 03",
+        "imagen": "./img/delineador/03.jpeg",
+        "categoria": {
+            "nombre": "delineador",
+            "id": "delineador"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "delineador-04",
+        "titulo": "delineador 04",
+        "imagen": "./img/delineador/04.png",
+        "categoria": {
+            "nombre": "delineador",
+            "id": "delineador"
+        },
+        "precio": 1300
+    }
+]
